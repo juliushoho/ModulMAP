@@ -1,0 +1,8 @@
+Latihan Tugas dan Eksperimen
+2. Error terjadi karena user mengosongkan nilai sehingga saat diubah menjadi double, terjadi error. Langkah debugging untuk memperbaiki error tersebut adalah dengan menambahkan
+code di fungsi hitung pertama, sehingga saat user tidak mengisi nilai, program akan automatis memasukan nilai 0.
+3. Setelah melakukan debugging, kesimpulan saya adalah:
+   a. Step-over -> line sekarang dijalankan dan akan berhenti pada line setelahnya
+   b. Step-into -> masuk kedalam method/fungsi yang ada pada line sekarang
+   c. Step-out  -> method sejalankan secara menyeluruh dan return ke step into
+   d. Resume    -> program dilanjutkan seperti biasa 
