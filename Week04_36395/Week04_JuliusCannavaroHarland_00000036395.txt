@@ -1,0 +1,11 @@
+Kesimpulan:
+1. Week04A
+- Pada saat user memasukkan teks pada box yang telah disiapkan dan menekan tombol kirim, maka user akan diarahkan kehalaman selanjutnya dengan 
+  teks sebelumnya di print dipaling atas. Setelah itu, user dapat mengirim pesan balasan dan teks balasan akan ditampilkan di halaman awal ditengah 
+  halaman.
+- Pada saat user menekan tombok browse tanpa mengisi apapun pada textbox yang ada, maka user akan langsung diarahkan menuju website umn.ac.id
+
+2. Week04B
+- Pada saat user menekan tombol Halaman 1, maka user akan diarahkan ke layout halaman 1 yang berisi text edit tulisan dan tombol ganti tulisan.
+- Pada saat user menekan tombol Halaman 2, maka user akan diarahkan ke layout halaman 2 dengan tampilan halaman yang sama seperti halaman 1.
+- Jika user berusaha mengubah tulisan pada halaman 1 atau 2, tulisan tidak akan terganti karena belum ada fungsi untuk menggantinya.
