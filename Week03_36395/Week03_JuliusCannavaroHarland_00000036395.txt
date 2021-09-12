@@ -1,1 +1,7 @@
 Catatan dan Kesimpulan dari pengujian app
+
+Recycler View memiliki karakteristik seperti LinkedList karena keduanya memiliki penanda posisi sekarang untuk melakukan sebuah aksi.
+
+File adapter berguna untuk menjalankan recyclerview dan memberikan beberapa fungsi tambahan.
+
+FAB adalah button floating pada aplikasi yang akan terletak pada layer teratas
