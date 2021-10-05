@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">UTS_36395_JuliusCannavaroHarland</string>
     <string name="reference">
-        <a href="https://stackoverflow.com/questions/38011736/android-circle-profile-picture">Circle profile picture</a> \n
-        <a href="https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/">Hyperlink</a>\n
-        <a href="https://www.geeksforgeeks.org/how-to-add-and-customize-back-button-of-action-bar-in-android/">Back Button</a> \n
-        <a href="https://stackoverflow.com/questions/30216233/how-to-hide-app-name-from-title-bar-in-android">Hide app name</a> \n
-        <a href="https://stackoverflow.com/questions/6290531/how-do-i-check-if-my-edittext-fields-are-empty">Warning empty input</a> \n
-        <a href="https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application">Passing data between activity</a> \n
-        <a href="https://developer.android.com/guide/topics/ui/notifiers/toasts">Toast</a> \n
-        <a href="https://mixkit.co/free-sound-effects/">Sound effect download</a> \n
-        <a href="https://guides.codepath.com/android/using-the-app-toolbar">Toolbar</a> \n
+        <a href="https://stackoverflow.com/questions/38011736/android-circle-profile-picture">https://stackoverflow.com/questions/38011736/android-circle-profile-picture</a> \n
+        <a href="https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/">https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/</a>\n
+        <a href="https://www.geeksforgeeks.org/how-to-add-and-customize-back-button-of-action-bar-in-android/">https://www.geeksforgeeks.org/how-to-add-and-customize-back-button-of-action-bar-in-android/</a> \n
+        <a href="https://stackoverflow.com/questions/30216233/how-to-hide-app-name-from-title-bar-in-android">https://stackoverflow.com/questions/30216233/how-to-hide-app-name-from-title-bar-in-android</a> \n
+        <a href="https://stackoverflow.com/questions/6290531/how-do-i-check-if-my-edittext-fields-are-empty">https://stackoverflow.com/questions/6290531/how-do-i-check-if-my-edittext-fields-are-empty</a> \n
+        <a href="https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application">https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application</a> \n
+        <a href="https://developer.android.com/guide/topics/ui/notifiers/toasts">https://developer.android.com/guide/topics/ui/notifiers/toasts</a> \n
+        <a href="https://mixkit.co/free-sound-effects/">https://mixkit.co/free-sound-effects/</a> \n
+        <a href="https://guides.codepath.com/android/using-the-app-toolbar">https://guides.codepath.com/android/using-the-app-toolbar</a> \n
     </string>
 </resources>
