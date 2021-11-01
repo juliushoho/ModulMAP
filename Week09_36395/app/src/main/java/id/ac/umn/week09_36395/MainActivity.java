@@ -55,8 +55,7 @@ public class MainActivity extends AppCompatActivity {
         rv.setAdapter(adapter);
         rv.setLayoutManager(new LinearLayoutManager(this));
         mhsVM = ViewModelProviders.of(this).get(MahasiswaViewModel.class);
-        mhsVM.getDaftarMahasiswa().observe(this,
-                new Observer<List<Mahasiswa>>() {
+        mhsVM.getDaftarMahasiswa().observe(this, new Observer<List<Mahasiswa>>() {
                     @Override
                     public void onChanged(List<Mahasiswa> mhss) {
                         adapter.setDaftarMahasiswa(mhss);
